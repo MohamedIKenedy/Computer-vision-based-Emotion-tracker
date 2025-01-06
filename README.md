@@ -49,6 +49,9 @@ Based on the training graphs:
 - Model shows good convergence with minimal overfitting
 - Loss decreases steadily throughout training
 
+![Performance](EmotionDetection.png "Performance")
+
+
 ## Usage
 
 ```python
