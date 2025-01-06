@@ -44,8 +44,8 @@ The model employs transfer learning with the following structure:
 ## Performance
 
 Based on the training graphs:
-- Training accuracy reaches ~73%
-- Validation accuracy stabilizes around 68%
+- Training accuracy reaches ~81%
+- Validation accuracy stabilizes around 67.65%%
 - Model shows good convergence with minimal overfitting
 - Loss decreases steadily throughout training
 
