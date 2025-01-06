@@ -1,7 +1,7 @@
 # Facial Expression Recognition using MobileNet
 
 This project implements a deep learning model for facial expression recognition using transfer learning with MobileNet as the base architecture.
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MohamedIKenedy/Computer-vision-based-Emotion-tracker/blob/main/YOUR_NOTEBOOK_NAME.ipynb)
 ## Dataset
 
 The model uses the FER2013 dataset, which contains:
